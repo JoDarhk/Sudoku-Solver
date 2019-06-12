@@ -1,7 +1,7 @@
 /** Sudoku solver program in C.
   * This program takes input of lines of a sudoku puzzle as array input
   * and provides the possible solution
-  * Program forked from President Lee Hsien Loong Sudoku Solver;
+  * Program forked from Lee Hsien Loong Sudoku Solver;
   * ====================================
   * The MIT License
   * ====================================
