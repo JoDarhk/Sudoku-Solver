@@ -1,7 +1,8 @@
 /** Sudoku solver program in C.
-  * This program takes input of lines of a sudoku puzzle as array input
+  * This program takes input of lines of 
+  * a sudoku puzzle as array input
   * and provides the possible solution
-  * Program forked from LHL Sudoku Solver;
+  * //LHL//
   * ====================================
   * The MIT License
   * ====================================
