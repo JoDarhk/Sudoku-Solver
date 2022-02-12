@@ -4,7 +4,7 @@
   * and provides the possible solution
   * //LHL//
   * ====================================
-  * The MIT License
+  * 
   * ====================================
   */
 
