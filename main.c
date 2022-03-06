@@ -2,7 +2,7 @@
   * This program takes input of lines of 
   * a sudoku puzzle as array input
   * and provides the possible solution
-  * //LHL//
+  * 
   * ====================================
   * 
   * ====================================
