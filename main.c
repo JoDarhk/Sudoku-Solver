@@ -8,7 +8,7 @@
   * ====================================
   */
 
-#include "stdio.h"
+#include <stdio.h>
 
 
 int InBlock[81], InRow[81], InCol[81];
